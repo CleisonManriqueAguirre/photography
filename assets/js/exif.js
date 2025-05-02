@@ -290,6 +290,7 @@
         },
         FileSource : {
             3 : "DSC"
+            4 : "imag"
         },
 
         Components : {
