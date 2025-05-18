@@ -4,8 +4,8 @@ from PIL import Image
 import os
 
 # Define the folder containing the thumbnails
-input_folder = "d:/showcase_pictures/creativity_2/photography/images/fulls"
-output_folder = "d:/showcase_pictures/creativity_2/photography/images/thumbs"
+input_folder = "d:/PROJECTS_STCEJORP/showcase_pictures/creativity_2/photography/images/fulls"
+output_folder = "d:/PROJECTS_STCEJORP/showcase_pictures/creativity_2/photography/images/thumbs"
 
 # Create the output folder if it doesn't exist
 if not os.path.exists(output_folder):
